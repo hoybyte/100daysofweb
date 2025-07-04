@@ -16,5 +16,5 @@ Log
 
 R1D0
 
-I setup a new laptop with a fresh install of Windows 11. I installed WSL and configured my VSCode Editor to include Vim motions as I am trying to learn the shortcuts. 
+I setup a new laptop with a fresh install of Windows 11. I installed WSL and configured my VSCode Editor to include Vim motions as I am trying to learn the shortcuts. I learned how to use GitLens to sync my Github Repository back to Github. I have not used this in awhile as I mostly performed Sysadmin work and not development work.  
 
