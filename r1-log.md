@@ -1,18 +1,10 @@
-#100DaysOfCode Log - Round 1 - [Hoybyte] <br>
-The log of my #100DaysOfCode challenge. <br> Started on [July 3, Thursday, 2025].
+# 💻 100 Days of Code – Round 1: [Hoybyte]
 
-Overall Goals <br>
+Welcome to my #100DaysOfCode journey — a commitment to sharpening my coding skills and documenting my growth along the way.  
 
-- Learn how to use HTML, CSS and JavaScript
-- Learn how to setup a website and post it the web
-- Learn how to articulate my thoughts and place them in documnets
-- Create a Portfolio Website that will be used as a reference for a resume and keep track of information that I learned on my Journey
+**Challenge Start Date**: **Thursday, July 3, 2025**
 
-
-
-
-Log
-<br>
+This log will serve as a daily record of what I learn, build, and reflect on as I dive deeper into web development and related technologies. Let’s get started!
 
 ### 📅 Round 1 Day 0 – Rebooting My Dev Environment
 
