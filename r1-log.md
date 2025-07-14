@@ -39,3 +39,28 @@ This log will serve as a daily record of what I learn, build, and reflect on as 
 
 - **📖 Next Steps**  
   I'll keep reviewing the HTML and CSS documentation to ensure I'm using the right syntax and best practices to resolve the layout issues.
+
+### Round 1 - Day 2 🌐🧠  
+**Date:** July 13, 2025  
+**Focus:** Migrating workflow to Ubuntu & refining portfolio setup  
+
+## ✅ Tasks Completed:
+- Installed Ubuntu 24 on personal laptop  
+- Created user account and performed system updates  
+- Installed essential dev tools: Git, VS Code, GitHub Copilot  
+- Configured personal apps (e.g., music player for focused workflow)  
+- Used `gh repo clone` to pull challenge and portfolio repositories  
+- Discovered naming error in portfolio repository and corrected by creating a new one  
+
+## 🧠 Lessons Learned:
+- Practical use of `gh repo clone` for efficient repo management  
+- Attention to naming conventions matters for future professionalism  
+- Linux setup can be fast and rewarding when properly planned  
+
+## ⚠️ Notes:
+- Missed a few days due to illness (Covid). Rested and resumed with momentum  
+
+## 💬 Reflection:
+Migrating to Ubuntu was a rewarding shift—tools now feel faster and the environment more customizable. Fixing the portfolio repo name was a reminder of how small details make a big impact, especially when building a professional presence. Despite the health setback, it feels good to be back in motion.
+
+ 
